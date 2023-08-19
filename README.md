@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Learnings in GitHub Training Program
 
-_Get started using GitHub in less than an hour._
+_I started using GitHub in less than an hour after this training program. These are my the notes and resourcs I have gathered from the github training program._
 
 </header>
 
